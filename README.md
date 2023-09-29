@@ -48,3 +48,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Hat tip to Jose Salvatierra and his Udemy class "The Complete Python/PostgreSQL Course 2.0" for instructions on this project!
 
+### Contact
+
+If you think this project is dope and wanna chat, hit me up on LinkedIn. You can find the link on my GitHub profile. More of my work is also available on my [portfolio](https://www.scott-tuschl.com).
