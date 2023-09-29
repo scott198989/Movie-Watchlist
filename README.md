@@ -1,7 +1,6 @@
+![Apartment App Front End](https://github.com/scott198989/AptAppFrontNew/blob/main/Apt%20App%20front.png)
+
 # Movie Watchlist App 🎬
-
-## Screenshots
-
 
 ## Description
 
