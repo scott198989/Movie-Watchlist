@@ -1,4 +1,4 @@
-![Apartment App Front End](https://github.com/scott198989/Movie-Watchlist/blob/main/Movie-Watchlist-Python.png)
+![Apartment App Front End](https://github.com/scott198989/Movie-Watchlist/blob/main/*Movie-Watchlist-Python.png)
 
 # Movie Watchlist App 🎬
 
